@@ -10,18 +10,18 @@
   
   <!-- Weekly Commit Activity Bars -->
   <g>
-    <rect x="10.0" y="13.5" width="8" height="16.5" rx="2" fill="#38bdf8" fill-opacity="0.74" />
-    <rect x="28.9" y="13.5" width="8" height="16.5" rx="2" fill="#38bdf8" fill-opacity="0.74" />
-    <rect x="47.7" y="15.2" width="8" height="14.8" rx="2" fill="#38bdf8" fill-opacity="0.70" />
-    <rect x="66.6" y="7.0" width="8" height="23.0" rx="2" fill="#38bdf8" fill-opacity="0.90" />
-    <rect x="85.4" y="26.0" width="8" height="4.0" rx="2" fill="#38bdf8" fill-opacity="0.42" />
-    <rect x="104.3" y="26.0" width="8" height="4.0" rx="2" fill="#38bdf8" fill-opacity="0.37" />
-    <rect x="123.1" y="28.0" width="8" height="2.0" rx="2" fill="#38bdf8" fill-opacity="0.12" />
-    <rect x="142.0" y="26.0" width="8" height="4.0" rx="2" fill="#38bdf8" fill-opacity="0.36" />
+    <rect x="10.0" y="26.0" width="8" height="4.0" rx="2" fill="#38bdf8" fill-opacity="0.44" />
+    <rect x="28.9" y="24.5" width="8" height="5.5" rx="2" fill="#38bdf8" fill-opacity="0.48" />
+    <rect x="47.7" y="22.6" width="8" height="7.4" rx="2" fill="#38bdf8" fill-opacity="0.53" />
+    <rect x="66.6" y="19.0" width="8" height="11.0" rx="2" fill="#38bdf8" fill-opacity="0.61" />
+    <rect x="85.4" y="16.2" width="8" height="13.8" rx="2" fill="#38bdf8" fill-opacity="0.68" />
+    <rect x="104.3" y="13.4" width="8" height="16.6" rx="2" fill="#38bdf8" fill-opacity="0.75" />
+    <rect x="123.1" y="9.8" width="8" height="20.2" rx="2" fill="#38bdf8" fill-opacity="0.83" />
+    <rect x="142.0" y="7.0" width="8" height="23.0" rx="2" fill="#38bdf8" fill-opacity="0.90" />
   </g>
 
   <!-- Trend Overlay Curve -->
-  <path d="M 14.0 13.5 L 32.9 13.5 L 51.7 15.2 L 70.6 7.0 L 89.4 26.9 L 108.3 29.3 L 127.1 30.0 L 146.0 29.7 L 146.0 30.0 L 14.0 30.0 Z" fill="url(#area-grad-38bdf8)" />
-  <path d="M 14.0 13.5 L 32.9 13.5 L 51.7 15.2 L 70.6 7.0 L 89.4 26.9 L 108.3 29.3 L 127.1 30.0 L 146.0 29.7" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
-  <circle cx="146.0" cy="29.7" r="3" fill="#38bdf8" stroke="#0d1117" stroke-width="1" />
+  <path d="M 14.0 26.3 L 32.9 24.5 L 51.7 22.6 L 70.6 19.0 L 89.4 16.2 L 108.3 13.4 L 127.1 9.8 L 146.0 7.0 L 146.0 30.0 L 14.0 30.0 Z" fill="url(#area-grad-38bdf8)" />
+  <path d="M 14.0 26.3 L 32.9 24.5 L 51.7 22.6 L 70.6 19.0 L 89.4 16.2 L 108.3 13.4 L 127.1 9.8 L 146.0 7.0" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="146.0" cy="7.0" r="3" fill="#38bdf8" stroke="#0d1117" stroke-width="1" />
 </svg>
