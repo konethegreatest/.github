@@ -108,8 +108,8 @@ def make_progress_bar(percentage, width=12):
     bar = "█" * filled_len + "░" * empty_len
     return f"`{bar} {percentage:5.1f}%`"
 
-def generate_sparkline_svg(weekly_counts, color="#38bdf8", width=160, height=36):
-    """Generate an SVG sparkline graph for weekly commit history."""
+def generate_sparkline_svg(weekly_counts, color="#38bdf8", width=160, height=38):
+    """Generate a high-definition commit activity chart with weekly bars and trendline."""
     if not weekly_counts:
         weekly_counts = [0] * 8
     elif len(weekly_counts) < 8:
@@ -118,43 +118,67 @@ def generate_sparkline_svg(weekly_counts, color="#38bdf8", width=160, height=36)
         weekly_counts = weekly_counts[-8:]
 
     max_val = max(weekly_counts) if max(weekly_counts) > 0 else 1
-    pad_x = 8
-    pad_y = 6
+    pad_x = 10
+    pad_bottom = 6
+    pad_top = 7
     plot_w = width - (2 * pad_x)
-    plot_h = height - (2 * pad_y)
+    plot_h = height - pad_bottom - pad_top
 
-    points = []
     num_pts = len(weekly_counts)
-    step = plot_w / (num_pts - 1) if num_pts > 1 else plot_w
+    col_w = 8
+    gap = (plot_w - (num_pts * col_w)) / (num_pts - 1) if num_pts > 1 else 0
+
+    bars_svg = []
+    points = []
 
     for i, val in enumerate(weekly_counts):
-        x = pad_x + (i * step)
-        y = height - pad_y - (val / max_val * plot_h)
-        points.append((x, y))
+        bar_x = pad_x + i * (col_w + gap)
+        # Bar height proportional to commits, with min height 3px for non-zero or 1.5px for zero
+        if val > 0:
+            bar_h = max(4.0, (val / max_val) * plot_h)
+            opacity = 0.35 + (val / max_val) * 0.55
+        else:
+            bar_h = 2.0
+            opacity = 0.12
+        bar_y = height - pad_bottom - bar_h
+        bars_svg.append(f'<rect x="{bar_x:.1f}" y="{bar_y:.1f}" width="{col_w}" height="{bar_h:.1f}" rx="2" fill="{color}" fill-opacity="{opacity:.2f}" />')
+        
+        center_x = bar_x + col_w / 2.0
+        line_y = height - pad_bottom - (val / max_val * plot_h)
+        points.append((center_x, line_y))
 
-    # Path d for line
+    # Construct smooth or connected polyline
     line_d = f"M {points[0][0]:.1f} {points[0][1]:.1f}"
     for x, y in points[1:]:
         line_d += f" L {x:.1f} {y:.1f}"
 
-    # Area path d (closed to bottom)
-    bottom_y = height - pad_y
+    bottom_y = height - pad_bottom
     area_d = f"{line_d} L {points[-1][0]:.1f} {bottom_y:.1f} L {points[0][0]:.1f} {bottom_y:.1f} Z"
 
-    # SVG markup
+    bars_markup = "\n    ".join(bars_svg)
+
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none">
   <defs>
-    <linearGradient id="grad-{color.replace('#','')}" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="{color}" stop-opacity="0.45" />
-      <stop offset="100%" stop-color="{color}" stop-opacity="0.02" />
+    <linearGradient id="area-grad-{color.replace('#','')}" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="{color}" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="{color}" stop-opacity="0.00" />
     </linearGradient>
   </defs>
+  <!-- Card Base -->
   <rect width="{width}" height="{height}" rx="6" fill="#0d1117" stroke="#21262d" stroke-width="1" />
-  <path d="{area_d}" fill="url(#grad-{color.replace('#','')})" />
-  <path d="{line_d}" stroke="{color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-  <circle cx="{points[-1][0]:.1f}" cy="{points[-1][1]:.1f}" r="3" fill="{color}" />
+  
+  <!-- Weekly Commit Activity Bars -->
+  <g>
+    {bars_markup}
+  </g>
+
+  <!-- Trend Overlay Curve -->
+  <path d="{area_d}" fill="url(#area-grad-{color.replace('#','')})" />
+  <path d="{line_d}" stroke="{color}" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="{points[-1][0]:.1f}" cy="{points[-1][1]:.1f}" r="3" fill="{color}" stroke="#0d1117" stroke-width="1" />
 </svg>"""
     return svg
+
 
 def generate_overview_card_svg(members_data, total_commits, active_repos, width=860, height=210):
     """Generate an overview leaderboard infographic card in dark theme."""
@@ -453,7 +477,7 @@ def main():
         )
 
     leaderboard_table = "\n".join([
-        "| Rank | Contributor | Commits | Contribution Share | Standing | 30-Day Activity Trend | Key Focus Areas |",
+        "| Rank | Contributor | Commits | Contribution Share | Standing | Commit Activity Graph | Key Focus Areas |",
         "| :---: | :--- | :---: | :---: | :---: | :---: | :--- |",
         *table_rows
     ])

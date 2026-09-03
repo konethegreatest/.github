@@ -17,7 +17,7 @@
 [![Active Engineers](https://img.shields.io/badge/Active_Engineers-7-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Motsoeneng-Bill-Tech/people)
 [![Core Repos](https://img.shields.io/badge/Production_Repos-7-34d399?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/orgs/Motsoeneng-Bill-Tech/repositories)
 [![Compliance](https://img.shields.io/badge/Security-POPIA_Compliant-f59e0b?style=for-the-badge&logo=shield&logoColor=white)](https://mb.co.za/)
-[![Last Synced](https://img.shields.io/badge/Telemetry-2026-09-03_11--34_UTC-slate?style=for-the-badge&logo=clock&logoColor=white)](https://github.com/Motsoeneng-Bill-Tech/.github/actions)
+[![Last Synced](https://img.shields.io/badge/Telemetry-2026-09-03_13--15_UTC-slate?style=for-the-badge&logo=clock&logoColor=white)](https://github.com/Motsoeneng-Bill-Tech/.github/actions)
 <!-- STATS_BADGES:END -->
 
 </div>
@@ -55,7 +55,7 @@ We engineer systems for two core audiences:
 </div>
 
 
-| Rank | Contributor | Commits | Contribution Share | Standing | 30-Day Activity Trend | Key Focus Areas |
+| Rank | Contributor | Commits | Contribution Share | Standing | Commit Activity Graph | Key Focus Areas |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
 | 🥇 | [<img src="https://avatars.githubusercontent.com/u/295184973?v=4&s=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@konethegreatest**](https://github.com/konethegreatest) | **774** | `█████░░░░░  50.9%` | 🏆 Principal | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/konethegreatest.svg" width="140" height="32" alt="konethegreatest Activity" /> | `tender-intelligence-platform` `forensics-due-diligence-system` |
 | 🥈 | [<img src="https://avatars.githubusercontent.com/u/295596016?v=4&s=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@Akonisaho-MB**](https://github.com/Akonisaho-MB) | **345** | `██░░░░░░░░  22.7%` | 🥇 Senior Lead | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/Akonisaho-MB.svg" width="140" height="32" alt="Akonisaho-MB Activity" /> | `mb-knowledge-vault-enterprise` `Case-Management` |
@@ -118,6 +118,6 @@ We welcome technical collaboration, industry inquiries, and strategic engagement
 ---
 
 **Motsoeneng Bill Tech** · Houghton, Johannesburg · South Africa 🇿🇦  
-<!-- TIMESTAMP:START --> *Last updated: 2026-09-03 11:34 UTC* <!-- TIMESTAMP:END -->
+<!-- TIMESTAMP:START --> *Last updated: 2026-09-03 13:15 UTC* <!-- TIMESTAMP:END -->
 
 </div>
