@@ -13,11 +13,11 @@
 </p>
 
 <!-- STATS_BADGES:START -->
-[![Total Commits](https://img.shields.io/badge/Total_Commits-1,521-38bdf8?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Motsoeneng-Bill-Tech)
-[![Active Engineers](https://img.shields.io/badge/Active_Engineers-7-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Motsoeneng-Bill-Tech/people)
-[![Core Repos](https://img.shields.io/badge/Production_Repos-1-34d399?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/orgs/Motsoeneng-Bill-Tech/repositories)
+[![Total Contributions](https://img.shields.io/badge/Total_Contributions-2,366-38bdf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Motsoeneng-Bill-Tech)
+[![Firm Commits](https://img.shields.io/badge/Firm_Commits-1,521-818cf8?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Motsoeneng-Bill-Tech)
+[![Engineers](https://img.shields.io/badge/Active_Engineers-7-34d399?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/orgs/Motsoeneng-Bill-Tech/people)
 [![Compliance](https://img.shields.io/badge/Security-POPIA_Compliant-f59e0b?style=for-the-badge&logo=shield&logoColor=white)](https://mb.co.za/)
-[![Last Synced](https://img.shields.io/badge/Telemetry-2026-09-04_03--29_UTC-slate?style=for-the-badge&logo=clock&logoColor=white)](https://github.com/Motsoeneng-Bill-Tech/.github/actions)
+[![Last Synced](https://img.shields.io/badge/Telemetry-2026-09-04_06--59_UTC-slate?style=for-the-badge&logo=clock&logoColor=white)](https://github.com/Motsoeneng-Bill-Tech/.github/actions)
 <!-- STATS_BADGES:END -->
 
 </div>
@@ -50,22 +50,22 @@ We engineer systems for two core audiences:
 
 | 🥈 2nd Place | 🥇 1st Place (Lead Contributor) | 🥉 3rd Place |
 | :---: | :---: | :---: |
-| <img src="https://github.com/Akonisaho-MB.png&s=100" width="68" height="68" style="border-radius:50%; border: 3px solid #94a3b8;" /><br/>**[@Akonisaho-MB](https://github.com/Akonisaho-MB)**<br/>`345 commits` (22.7%)<br/>*Senior Lead Engineer* | <img src="https://github.com/konethegreatest.png&s=120" width="88" height="88" style="border-radius:50%; border: 3px solid #f59e0b;" /><br/>**[@konethegreatest](https://github.com/konethegreatest)**<br/>`774 commits` (50.9%)<br/>*Principal Architect* | <img src="https://github.com/Amukelani-MB.png&s=100" width="68" height="68" style="border-radius:50%; border: 3px solid #d97706;" /><br/>**[@Amukelani-MB](https://github.com/Amukelani-MB)**<br/>`249 commits` (16.4%)<br/>*Senior Lead Engineer* |
+| <img src="https://github.com/Akonisaho-MB.png?size=100" width="68" height="68" style="border-radius:50%; border: 3px solid #94a3b8;" /><br/>**[@Akonisaho-MB](https://github.com/Akonisaho-MB)**<br/>`633 total contribs`<br/>`345 firm commits` (22.7%)<br/>*Senior Lead Engineer* | <img src="https://github.com/konethegreatest.png?size=100" width="88" height="88" style="border-radius:50%; border: 3px solid #f59e0b;" /><br/>**[@konethegreatest](https://github.com/konethegreatest)**<br/>`1,136 total contribs`<br/>`774 firm commits` (50.9%)<br/>*Principal Architect* | <img src="https://github.com/Amukelani-MB.png?size=100" width="68" height="68" style="border-radius:50%; border: 3px solid #d97706;" /><br/>**[@Amukelani-MB](https://github.com/Amukelani-MB)**<br/>`398 total contribs`<br/>`249 firm commits` (16.4%)<br/>*Senior Lead Engineer* |
 
 </div>
 
 
-| Rank | Contributor | Commits | Contribution Share | Standing | Commit Activity Graph | Key Focus Areas |
-| :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 🥇 | [<img src="https://github.com/konethegreatest.png&s=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@konethegreatest**](https://github.com/konethegreatest) | **774** | `█████░░░░░  50.9%` | 🏆 Principal | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/konethegreatest.svg" width="140" height="32" alt="konethegreatest Activity" /> | `tender-intelligence-platform` `forensics-due-diligence-system` |
-| 🥈 | [<img src="https://github.com/Akonisaho-MB.png&s=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@Akonisaho-MB**](https://github.com/Akonisaho-MB) | **345** | `██░░░░░░░░  22.7%` | 🥇 Senior Lead | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/Akonisaho-MB.svg" width="140" height="32" alt="Akonisaho-MB Activity" /> | `mb-knowledge-vault-enterprise` `Case-Management` |
-| 🥉 | [<img src="https://github.com/Amukelani-MB.png&s=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@Amukelani-MB**](https://github.com/Amukelani-MB) | **249** | `██░░░░░░░░  16.4%` | 🥇 Senior Lead | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/Amukelani-MB.svg" width="140" height="32" alt="Amukelani-MB Activity" /> | `tender-intelligence-platform` `forensics-due-diligence-system` |
-| **#4** | [<img src="https://github.com/pakisomb.png&s=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@pakisomb**](https://github.com/pakisomb) | **91** | `█░░░░░░░░░   6.0%` | 🥉 Core | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/pakisomb.svg" width="140" height="32" alt="pakisomb Activity" /> | `mb-67-minutes` `Case-Management` |
-| **#5** | [<img src="https://github.com/VhutshiloMB.png&s=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@VhutshiloMB**](https://github.com/VhutshiloMB) | **56** | `░░░░░░░░░░   3.7%` | 🥉 Core | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/VhutshiloMB.svg" width="140" height="32" alt="VhutshiloMB Activity" /> | `Case-Management` |
-| **#6** | [<img src="https://github.com/Kea1m.png&s=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@Kea1m**](https://github.com/Kea1m) | **6** | `░░░░░░░░░░   0.4%` | ⭐ Contributor | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/Kea1m.svg" width="140" height="32" alt="Kea1m Activity" /> | `Case-Management` |
-| **#7** | [<img src="https://github.com/TheoSingo.png&s=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@TheoSingo**](https://github.com/TheoSingo) | **0** | `░░░░░░░░░░   0.0%` | 🌱 Team Member | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/TheoSingo.svg" width="140" height="32" alt="TheoSingo Activity" /> | `general` |
+| Rank | Engineer | Account Created | Total Contributions | Firm Commits | Share | Standing | Actual Contribution Activity Graph | Core Repositories |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| 🥇 | [<img src="https://github.com/konethegreatest.png?size=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@konethegreatest**](https://github.com/konethegreatest) | `Jun 19, 2026` | **1,136** | **774** | `████░░░░  50.9%` | 🏆 Principal | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/konethegreatest.svg" width="220" height="66" alt="konethegreatest Activity Graph" /> | `tender-intelligence-platform` `forensics-due-diligence-system` |
+| 🥈 | [<img src="https://github.com/Akonisaho-MB.png?size=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@Akonisaho-MB**](https://github.com/Akonisaho-MB) | `Jun 21, 2026` | **633** | **345** | `██░░░░░░  22.7%` | 🥇 Senior Lead | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/Akonisaho-MB.svg" width="220" height="66" alt="Akonisaho-MB Activity Graph" /> | `mb-knowledge-vault-enterprise` `Case-Management` |
+| 🥉 | [<img src="https://github.com/Amukelani-MB.png?size=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@Amukelani-MB**](https://github.com/Amukelani-MB) | `Jun 24, 2026` | **398** | **249** | `█░░░░░░░  16.4%` | 🥇 Senior Lead | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/Amukelani-MB.svg" width="220" height="66" alt="Amukelani-MB Activity Graph" /> | `tender-intelligence-platform` `forensics-due-diligence-system` |
+| **#4** | [<img src="https://github.com/pakisomb.png?size=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@pakisomb**](https://github.com/pakisomb) | `Jun 24, 2026` | **128** | **91** | `░░░░░░░░   6.0%` | 🥉 Core | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/pakisomb.svg" width="220" height="66" alt="pakisomb Activity Graph" /> | `mb-67-minutes` `Case-Management` |
+| **#5** | [<img src="https://github.com/VhutshiloMB.png?size=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@VhutshiloMB**](https://github.com/VhutshiloMB) | `Jun 19, 2026` | **78** | **56** | `░░░░░░░░   3.7%` | 🥉 Core | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/VhutshiloMB.svg" width="220" height="66" alt="VhutshiloMB Activity Graph" /> | `Case-Management` |
+| **#6** | [<img src="https://github.com/Kea1m.png?size=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@Kea1m**](https://github.com/Kea1m) | `Jun 22, 2026` | **14** | **6** | `░░░░░░░░   0.4%` | ⭐ Contributor | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/Kea1m.svg" width="220" height="66" alt="Kea1m Activity Graph" /> | `Case-Management` |
+| **#7** | [<img src="https://github.com/TheoSingo.png?size=64" width="28" height="28" style="border-radius:50%; vertical-align:middle;" /> **@TheoSingo**](https://github.com/TheoSingo) | `Aug 20, 2026` | **4** | **0** | `░░░░░░░░   0.0%` | 🌱 Team Member | <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/TheoSingo.svg" width="220" height="66" alt="TheoSingo Activity Graph" /> | `general` |
 
-> **Telemetry Note**: Rankings update automatically via scheduled GitHub Actions. Commits across all active engineering repositories are aggregated and verified.
+> **Telemetry & Verification**: This leaderboard aggregates real-time GitHub telemetry across all firm repositories and each engineer's verified public/private contributions since account inception. Updated automatically via GitHub Actions CI/CD.
 
 <!-- LEADERBOARD:END -->
 
@@ -79,6 +79,92 @@ We engineer systems for two core audiences:
 | 🥉 | **Core Engineer** | `40+ commits` | Feature engineering, rigorous test coverage, reliable component delivery |
 | ⭐ | **Contributor** | `1+ commits` | Active feature additions, bug resolution, and system maintenance |
 | 🌱 | **Team Member** | `Onboarding` | Team collaboration, exploratory research, and codebase induction |
+
+---
+
+## 👥 Engineering Team Output & Account Activity
+
+> Comprehensive breakdown of each engineer's verified contributions, commits, pull requests, and authentic GitHub contribution calendar heatmaps since their accounts were created.
+
+<!-- ROSTER:START -->
+
+### [🏆 Principal] Kone ([@konethegreatest](https://github.com/konethegreatest))
+- **Account Created**: `Jun 19, 2026`
+- **Total Contributions Since Account Creation**: **1,136** (`772 commits`, `328 pull requests`, `33 reviews`)
+- **Firm Repository Commits**: **774** (50.9% team share)
+- **Primary Focus Platforms**: `tender-intelligence-platform`, `forensics-due-diligence-system`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/konethegreatest.svg" width="100%" alt="konethegreatest Actual Activity Calendar" />
+</div>
+
+
+### [🥇 Senior Lead] Akonisaho Takalani ([@Akonisaho-MB](https://github.com/Akonisaho-MB))
+- **Account Created**: `Jun 21, 2026`
+- **Total Contributions Since Account Creation**: **633** (`417 commits`, `101 pull requests`, `30 reviews`)
+- **Firm Repository Commits**: **345** (22.7% team share)
+- **Primary Focus Platforms**: `mb-knowledge-vault-enterprise`, `Case-Management`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/Akonisaho-MB.svg" width="100%" alt="Akonisaho-MB Actual Activity Calendar" />
+</div>
+
+
+### [🥇 Senior Lead] Amukelani ([@Amukelani-MB](https://github.com/Amukelani-MB))
+- **Account Created**: `Jun 24, 2026`
+- **Total Contributions Since Account Creation**: **398** (`253 commits`, `130 pull requests`, `13 reviews`)
+- **Firm Repository Commits**: **249** (16.4% team share)
+- **Primary Focus Platforms**: `tender-intelligence-platform`, `forensics-due-diligence-system`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/Amukelani-MB.svg" width="100%" alt="Amukelani-MB Actual Activity Calendar" />
+</div>
+
+
+### [🥉 Core] Pakiso ([@pakisomb](https://github.com/pakisomb))
+- **Account Created**: `Jun 24, 2026`
+- **Total Contributions Since Account Creation**: **128** (`84 commits`, `22 pull requests`, `20 reviews`)
+- **Firm Repository Commits**: **91** (6.0% team share)
+- **Primary Focus Platforms**: `mb-67-minutes`, `Case-Management`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/pakisomb.svg" width="100%" alt="pakisomb Actual Activity Calendar" />
+</div>
+
+
+### [🥉 Core] Vhutshilo ([@VhutshiloMB](https://github.com/VhutshiloMB))
+- **Account Created**: `Jun 19, 2026`
+- **Total Contributions Since Account Creation**: **78** (`51 commits`, `19 pull requests`, `6 reviews`)
+- **Firm Repository Commits**: **56** (3.7% team share)
+- **Primary Focus Platforms**: `Case-Management`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/VhutshiloMB.svg" width="100%" alt="VhutshiloMB Actual Activity Calendar" />
+</div>
+
+
+### [⭐ Contributor] Keabetswe Matloha  ([@Kea1m](https://github.com/Kea1m))
+- **Account Created**: `Jun 22, 2026`
+- **Total Contributions Since Account Creation**: **14** (`1 commits`, `2 pull requests`, `9 reviews`)
+- **Firm Repository Commits**: **6** (0.4% team share)
+- **Primary Focus Platforms**: `Case-Management`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/Kea1m.svg" width="100%" alt="Kea1m Actual Activity Calendar" />
+</div>
+
+
+### [🌱 Team Member] Theo Singo ([@TheoSingo](https://github.com/TheoSingo))
+- **Account Created**: `Aug 20, 2026`
+- **Total Contributions Since Account Creation**: **4** (`1 commits`, `0 pull requests`, `1 reviews`)
+- **Firm Repository Commits**: **0** (0.0% team share)
+- **Primary Focus Platforms**: `General codebase`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Motsoeneng-Bill-Tech/.github/main/assets/graphs/TheoSingo.svg" width="100%" alt="TheoSingo Actual Activity Calendar" />
+</div>
+
+<!-- ROSTER:END -->
 
 ---
 
@@ -118,6 +204,6 @@ We welcome technical collaboration, industry inquiries, and strategic engagement
 ---
 
 **Motsoeneng Bill Tech** · Houghton, Johannesburg · South Africa 🇿🇦  
-<!-- TIMESTAMP:START --> *Last updated: 2026-09-04 03:29 UTC* <!-- TIMESTAMP:END -->
+<!-- TIMESTAMP:START --> *Last updated: 2026-09-04 06:59 UTC* <!-- TIMESTAMP:END -->
 
 </div>
