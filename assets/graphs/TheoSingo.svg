@@ -6,7 +6,7 @@
   <text x="14" y="22" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="700" fill="#f0f6fc">@TheoSingo</text>
   <text x="14" y="36" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e">Joined Aug 20, 2026 · <tspan fill="#58a6ff" font-weight="600">2 active days</tspan> (2%)</text>
   
-  <text x="426" y="22" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="800" fill="#39d353" text-anchor="end">4 <tspan font-size="10" font-weight="500" fill="#8b949e">contributions</tspan></text>
+  <text x="426" y="22" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="800" fill="#39d353" text-anchor="end">3 <tspan font-size="10" font-weight="500" fill="#8b949e">contributions</tspan></text>
   <text x="426" y="36" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9" fill="#8b949e" text-anchor="end">1 commits · 0 PRs · 1 reviews</text>
 
   <!-- Month Labels -->
@@ -88,7 +88,7 @@
     <rect x="151" y="65" width="10" height="10" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>2026-08-17: 0 contributions</title></rect>
     <rect x="151" y="78" width="10" height="10" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>2026-08-18: 0 contributions</title></rect>
     <rect x="151" y="91" width="10" height="10" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>2026-08-19: 0 contributions</title></rect>
-    <rect x="151" y="104" width="10" height="10" rx="2" fill="#0e4429"><title>2026-08-20: 2 contributions</title></rect>
+    <rect x="151" y="104" width="10" height="10" rx="2" fill="#0e4429"><title>2026-08-20: 1 contributions</title></rect>
     <rect x="151" y="117" width="10" height="10" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>2026-08-21: 0 contributions</title></rect>
     <rect x="151" y="130" width="10" height="10" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>2026-08-22: 0 contributions</title></rect>
     <rect x="164" y="52" width="10" height="10" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.5"><title>2026-08-23: 0 contributions</title></rect>

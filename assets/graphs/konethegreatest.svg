@@ -7,7 +7,7 @@
   <text x="14" y="36" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" fill="#8b949e">Joined Jun 19, 2026 · <tspan fill="#58a6ff" font-weight="600">65 active days</tspan> (78%)</text>
   
   <text x="426" y="22" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="800" fill="#39d353" text-anchor="end">1,136 <tspan font-size="10" font-weight="500" fill="#8b949e">contributions</tspan></text>
-  <text x="426" y="36" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9" fill="#8b949e" text-anchor="end">772 commits · 328 PRs · 33 reviews</text>
+  <text x="426" y="36" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9" fill="#8b949e" text-anchor="end">2 commits · 2 PRs · 0 reviews</text>
 
   <!-- Month Labels -->
   <text x="34" y="47" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9" fill="#94a3b8">Jun</text>
