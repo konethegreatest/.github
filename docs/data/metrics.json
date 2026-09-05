@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T20:36:02Z",
-  "source_commit": "488ce48560f9c34177d4d38414d6ac71380608e7",
+  "generated_at": "2026-09-05T03:53:05Z",
+  "source_commit": "443a2fe5be21603690378ab33d9a4a473eb54f91",
   "org": {
     "login": "Motsoeneng-Bill-Tech",
     "name": "Motsoeneng Bill Tech",
@@ -18,7 +18,7 @@
     },
     "calendar": {
       "from": "2026-06-19",
-      "to": "2026-09-04",
+      "to": "2026-09-05",
       "weeks": [
         {
           "days": [
@@ -652,7 +652,7 @@
               "weekday": 6,
               "count": 0,
               "level": 0,
-              "in_range": false
+              "in_range": true
             }
           ]
         }
@@ -821,13 +821,13 @@
       "tier": "Top Contributor",
       "calendar": {
         "from": "2026-06-19",
-        "to": "2026-09-04",
+        "to": "2026-09-05",
         "total": 1144,
         "active_days": 66,
-        "total_days": 78,
-        "active_pct": 84.6,
+        "total_days": 79,
+        "active_pct": 83.5,
         "longest_streak": 55,
-        "current_streak": 9,
+        "current_streak": 0,
         "weeks": [
           {
             "days": [
@@ -1461,7 +1461,7 @@
                 "weekday": 6,
                 "count": 0,
                 "level": 0,
-                "in_range": false
+                "in_range": true
               }
             ]
           }
@@ -1511,13 +1511,13 @@
       "tier": "Lead Contributor",
       "calendar": {
         "from": "2026-06-21",
-        "to": "2026-09-04",
+        "to": "2026-09-05",
         "total": 742,
         "active_days": 51,
-        "total_days": 76,
-        "active_pct": 67.1,
+        "total_days": 77,
+        "active_pct": 66.2,
         "longest_streak": 17,
-        "current_streak": 5,
+        "current_streak": 0,
         "weeks": [
           {
             "days": [
@@ -2098,7 +2098,7 @@
                 "weekday": 6,
                 "count": 0,
                 "level": 0,
-                "in_range": false
+                "in_range": true
               }
             ]
           }
@@ -2142,13 +2142,13 @@
       "tier": "Lead Contributor",
       "calendar": {
         "from": "2026-06-24",
-        "to": "2026-09-04",
+        "to": "2026-09-05",
         "total": 400,
         "active_days": 52,
-        "total_days": 73,
-        "active_pct": 71.2,
+        "total_days": 74,
+        "active_pct": 70.3,
         "longest_streak": 13,
-        "current_streak": 6,
+        "current_streak": 0,
         "weeks": [
           {
             "days": [
@@ -2729,7 +2729,7 @@
                 "weekday": 6,
                 "count": 0,
                 "level": 0,
-                "in_range": false
+                "in_range": true
               }
             ]
           }
@@ -2775,11 +2775,11 @@
       "tier": "Regular Contributor",
       "calendar": {
         "from": "2026-06-24",
-        "to": "2026-09-04",
+        "to": "2026-09-05",
         "total": 128,
         "active_days": 19,
-        "total_days": 73,
-        "active_pct": 26.0,
+        "total_days": 74,
+        "active_pct": 25.7,
         "longest_streak": 4,
         "current_streak": 0,
         "weeks": [
@@ -3362,7 +3362,7 @@
                 "weekday": 6,
                 "count": 0,
                 "level": 0,
-                "in_range": false
+                "in_range": true
               }
             ]
           }
@@ -3404,11 +3404,11 @@
       "tier": "Regular Contributor",
       "calendar": {
         "from": "2026-06-19",
-        "to": "2026-09-04",
+        "to": "2026-09-05",
         "total": 80,
         "active_days": 20,
-        "total_days": 78,
-        "active_pct": 25.6,
+        "total_days": 79,
+        "active_pct": 25.3,
         "longest_streak": 3,
         "current_streak": 0,
         "weeks": [
@@ -4044,7 +4044,7 @@
                 "weekday": 6,
                 "count": 0,
                 "level": 0,
-                "in_range": false
+                "in_range": true
               }
             ]
           }
@@ -4086,11 +4086,11 @@
       "tier": "Contributor",
       "calendar": {
         "from": "2026-06-22",
-        "to": "2026-09-04",
+        "to": "2026-09-05",
         "total": 14,
         "active_days": 8,
-        "total_days": 75,
-        "active_pct": 10.7,
+        "total_days": 76,
+        "active_pct": 10.5,
         "longest_streak": 2,
         "current_streak": 0,
         "weeks": [
@@ -4673,7 +4673,7 @@
                 "weekday": 6,
                 "count": 0,
                 "level": 0,
-                "in_range": false
+                "in_range": true
               }
             ]
           }
@@ -4715,13 +4715,13 @@
       "tier": "Contributor",
       "calendar": {
         "from": "2026-08-20",
-        "to": "2026-09-04",
+        "to": "2026-09-05",
         "total": 5,
         "active_days": 3,
-        "total_days": 16,
-        "active_pct": 18.8,
+        "total_days": 17,
+        "active_pct": 17.6,
         "longest_streak": 2,
-        "current_streak": 2,
+        "current_streak": 0,
         "weeks": [
           {
             "days": [
@@ -4878,7 +4878,7 @@
                 "weekday": 6,
                 "count": 0,
                 "level": 0,
-                "in_range": false
+                "in_range": true
               }
             ]
           }
@@ -4891,8 +4891,8 @@
     "generation_ok": true,
     "rate_limit": {
       "cost_used_total": 11,
-      "remaining": 4982,
-      "reset_at": "2026-09-04T21:16:41Z"
+      "remaining": 4989,
+      "reset_at": "2026-09-05T04:53:04Z"
     },
     "warnings": []
   }
