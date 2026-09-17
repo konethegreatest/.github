@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-17T11:22:18Z",
-  "source_commit": "52f29391c0ed358335cd56e53d525162eea35346",
+  "generated_at": "2026-09-17T16:39:29Z",
+  "source_commit": "ae4db6c9e5370d05b806ccdc35ce33ac47f76efa",
   "org": {
     "login": "Motsoeneng-Bill-Tech",
     "name": "Motsoeneng Bill Tech",
@@ -13,10 +13,10 @@
       "avg_consistency_pct": 47.7,
       "peak_streak": 78,
       "total_active_days": 288,
-      "total_reviews": 186,
-      "total_prs": 855,
-      "total_contributions": 4608,
-      "total_firm_commits": 2830
+      "total_reviews": 192,
+      "total_prs": 865,
+      "total_contributions": 4648,
+      "total_firm_commits": 2854
     },
     "calendar": {
       "from": "2026-06-19",
@@ -723,7 +723,7 @@
             {
               "date": "2026-09-14",
               "weekday": 1,
-              "count": 137,
+              "count": 138,
               "level": 4,
               "in_range": true
             },
@@ -744,7 +744,7 @@
             {
               "date": "2026-09-17",
               "weekday": 4,
-              "count": 64,
+              "count": 103,
               "level": 4,
               "in_range": true
             },
@@ -790,8 +790,8 @@
       "default_branch": "main",
       "is_empty": false,
       "is_archived": false,
-      "total_commits_default_branch": 609,
-      "attributed_member_commits": 609,
+      "total_commits_default_branch": 616,
+      "attributed_member_commits": 616,
       "unattributed_commits": 0
     },
     {
@@ -816,8 +816,8 @@
       "default_branch": "main",
       "is_empty": false,
       "is_archived": false,
-      "total_commits_default_branch": 349,
-      "attributed_member_commits": 349,
+      "total_commits_default_branch": 361,
+      "attributed_member_commits": 361,
       "unattributed_commits": 0
     },
     {
@@ -834,6 +834,19 @@
       "unattributed_commits": 0
     },
     {
+      "name": "MB-IQ-Revamped",
+      "description": "MB IQ Revamped",
+      "html_url": "https://github.com/Motsoeneng-Bill-Tech/MB-IQ-Revamped",
+      "visibility": "PRIVATE",
+      "primary_language": "TypeScript",
+      "default_branch": "main",
+      "is_empty": false,
+      "is_archived": false,
+      "total_commits_default_branch": 89,
+      "attributed_member_commits": 76,
+      "unattributed_commits": 13
+    },
+    {
       "name": "mb-wills-week",
       "description": null,
       "html_url": "https://github.com/Motsoeneng-Bill-Tech/mb-wills-week",
@@ -845,19 +858,6 @@
       "total_commits_default_branch": 88,
       "attributed_member_commits": 88,
       "unattributed_commits": 0
-    },
-    {
-      "name": "MB-IQ-Revamped",
-      "description": "MB IQ Revamped",
-      "html_url": "https://github.com/Motsoeneng-Bill-Tech/MB-IQ-Revamped",
-      "visibility": "PRIVATE",
-      "primary_language": "TypeScript",
-      "default_branch": "main",
-      "is_empty": false,
-      "is_archived": false,
-      "total_commits_default_branch": 85,
-      "attributed_member_commits": 72,
-      "unattributed_commits": 13
     },
     {
       "name": "mb-67-minutes",
@@ -873,6 +873,19 @@
       "unattributed_commits": 0
     },
     {
+      "name": ".github",
+      "description": null,
+      "html_url": "https://github.com/Motsoeneng-Bill-Tech/.github",
+      "visibility": "PUBLIC",
+      "primary_language": null,
+      "default_branch": "main",
+      "is_empty": false,
+      "is_archived": false,
+      "total_commits_default_branch": 44,
+      "attributed_member_commits": 7,
+      "unattributed_commits": 37
+    },
+    {
       "name": "mb-invoicing-tool",
       "description": "Decodes glyph-obfuscated legal invoice PDFs, reconciles every fee line to the cent, auto-categorises by learned rules, and exports the team's Excel analysis. Multi-matter.",
       "html_url": "https://github.com/Motsoeneng-Bill-Tech/mb-invoicing-tool",
@@ -884,19 +897,6 @@
       "total_commits_default_branch": 44,
       "attributed_member_commits": 23,
       "unattributed_commits": 21
-    },
-    {
-      "name": ".github",
-      "description": null,
-      "html_url": "https://github.com/Motsoeneng-Bill-Tech/.github",
-      "visibility": "PUBLIC",
-      "primary_language": null,
-      "default_branch": "main",
-      "is_empty": false,
-      "is_archived": false,
-      "total_commits_default_branch": 38,
-      "attributed_member_commits": 6,
-      "unattributed_commits": 32
     },
     {
       "name": "job-portal",
@@ -940,22 +940,22 @@
         "website_url": null
       },
       "contributions": {
-        "total": 1441,
-        "commits": 976,
-        "pull_requests": 428,
+        "total": 1449,
+        "commits": 981,
+        "pull_requests": 431,
         "reviews": 34,
         "issues": 0,
         "restricted": 0
       },
       "firm_commits": {
-        "total": 978,
+        "total": 983,
         "by_repo": {
           "tender-intelligence-platform": 578,
           "forensics-due-diligence-system": 288,
-          "MB-IQ-Revamped": 72,
+          "MB-IQ-Revamped": 76,
           "job-portal": 28,
           "mb-invoicing-tool": 8,
-          ".github": 4
+          ".github": 5
         },
         "top_repos": [
           "tender-intelligence-platform",
@@ -966,7 +966,7 @@
           ".github"
         ]
       },
-      "share_pct": 34.6,
+      "share_pct": 34.4,
       "consistency": {
         "active_days": 80,
         "total_days": 91,
@@ -981,7 +981,7 @@
       "calendar": {
         "from": "2026-06-19",
         "to": "2026-09-17",
-        "total": 1441,
+        "total": 1449,
         "active_days": 80,
         "total_days": 91,
         "active_pct": 87.9,
@@ -1710,7 +1710,7 @@
               {
                 "date": "2026-09-17",
                 "weekday": 4,
-                "count": 25,
+                "count": 33,
                 "level": 4,
                 "in_range": true
               },
@@ -1732,13 +1732,13 @@
           }
         ]
       },
-      "impact_score": 94.5,
-      "cadence_score": 94.5,
+      "impact_score": 94.2,
+      "cadence_score": 94.2,
       "tier": "Daily Driver",
       "tier_badge": "\u26a1",
       "cadence_status": "Daily Driver",
       "cadence_desc": "Consistent daily contributor with sustained streak and high peer review activity",
-      "commits_per_active_day": 12.2,
+      "commits_per_active_day": 12.3,
       "rank": 1
     },
     {
@@ -1755,18 +1755,18 @@
         "website_url": null
       },
       "contributions": {
-        "total": 970,
-        "commits": 751,
-        "pull_requests": 168,
-        "reviews": 47,
+        "total": 979,
+        "commits": 757,
+        "pull_requests": 170,
+        "reviews": 48,
         "issues": 0,
         "restricted": 0
       },
       "firm_commits": {
-        "total": 522,
+        "total": 528,
         "by_repo": {
           "mb-knowledge-vault-enterprise": 223,
-          "Case-Management": 157,
+          "Case-Management": 163,
           "mb-wills-week": 88,
           "mb-67-minutes": 37,
           "forensics-due-diligence-system": 17
@@ -1779,7 +1779,7 @@
           "forensics-due-diligence-system"
         ]
       },
-      "share_pct": 18.4,
+      "share_pct": 18.5,
       "consistency": {
         "active_days": 64,
         "total_days": 89,
@@ -1794,7 +1794,7 @@
       "calendar": {
         "from": "2026-06-21",
         "to": "2026-09-17",
-        "total": 970,
+        "total": 979,
         "active_days": 64,
         "total_days": 89,
         "active_pct": 71.9,
@@ -2470,7 +2470,7 @@
               {
                 "date": "2026-09-17",
                 "weekday": 4,
-                "count": 15,
+                "count": 24,
                 "level": 4,
                 "in_range": true
               },
@@ -2515,19 +2515,19 @@
         "website_url": null
       },
       "contributions": {
-        "total": 674,
-        "commits": 475,
-        "pull_requests": 181,
+        "total": 683,
+        "commits": 482,
+        "pull_requests": 183,
         "reviews": 16,
         "issues": 0,
         "restricted": 0
       },
       "firm_commits": {
-        "total": 468,
+        "total": 475,
         "by_repo": {
           "tender-intelligence-platform": 396,
           "forensics-due-diligence-system": 63,
-          "mb-anchor-games": 9
+          "mb-anchor-games": 16
         },
         "top_repos": [
           "tender-intelligence-platform",
@@ -2535,7 +2535,7 @@
           "mb-anchor-games"
         ]
       },
-      "share_pct": 16.5,
+      "share_pct": 16.6,
       "consistency": {
         "active_days": 66,
         "total_days": 86,
@@ -2550,7 +2550,7 @@
       "calendar": {
         "from": "2026-06-24",
         "to": "2026-09-17",
-        "total": 674,
+        "total": 683,
         "active_days": 66,
         "total_days": 86,
         "active_pct": 76.7,
@@ -3205,7 +3205,7 @@
               {
                 "date": "2026-09-14",
                 "weekday": 1,
-                "count": 17,
+                "count": 18,
                 "level": 4,
                 "in_range": true
               },
@@ -3226,7 +3226,7 @@
               {
                 "date": "2026-09-17",
                 "weekday": 4,
-                "count": 10,
+                "count": 18,
                 "level": 4,
                 "in_range": true
               },
@@ -3248,13 +3248,13 @@
           }
         ]
       },
-      "impact_score": 54.1,
-      "cadence_score": 54.1,
+      "impact_score": 54.0,
+      "cadence_score": 54.0,
       "tier": "Daily Driver",
       "tier_badge": "\u26a1",
       "cadence_status": "Daily Driver",
       "cadence_desc": "Consistent daily contributor with sustained streak and high peer review activity",
-      "commits_per_active_day": 7.1,
+      "commits_per_active_day": 7.2,
       "rank": 3
     },
     {
@@ -3271,17 +3271,17 @@
         "website_url": null
       },
       "contributions": {
-        "total": 218,
-        "commits": 139,
-        "pull_requests": 50,
-        "reviews": 27,
+        "total": 227,
+        "commits": 144,
+        "pull_requests": 53,
+        "reviews": 28,
         "issues": 0,
         "restricted": 0
       },
       "firm_commits": {
-        "total": 144,
+        "total": 149,
         "by_repo": {
-          "Case-Management": 129,
+          "Case-Management": 134,
           "mb-invoicing-tool": 15
         },
         "top_repos": [
@@ -3289,7 +3289,7 @@
           "mb-invoicing-tool"
         ]
       },
-      "share_pct": 5.1,
+      "share_pct": 5.2,
       "consistency": {
         "active_days": 34,
         "total_days": 91,
@@ -3304,7 +3304,7 @@
       "calendar": {
         "from": "2026-06-19",
         "to": "2026-09-17",
-        "total": 218,
+        "total": 227,
         "active_days": 34,
         "total_days": 91,
         "active_pct": 37.4,
@@ -4033,7 +4033,7 @@
               {
                 "date": "2026-09-17",
                 "weekday": 4,
-                "count": 11,
+                "count": 20,
                 "level": 4,
                 "in_range": true
               },
@@ -4055,13 +4055,13 @@
           }
         ]
       },
-      "impact_score": 33.8,
-      "cadence_score": 33.8,
+      "impact_score": 34.1,
+      "cadence_score": 34.1,
       "tier": "Steady Contributor",
       "tier_badge": "\ud83d\udfe1",
       "cadence_status": "Steady Contributor",
       "cadence_desc": "Weekly task contributor",
-      "commits_per_active_day": 4.2,
+      "commits_per_active_day": 4.4,
       "rank": 4
     },
     {
@@ -4100,7 +4100,7 @@
           "forensics-due-diligence-system"
         ]
       },
-      "share_pct": 24.5,
+      "share_pct": 24.3,
       "consistency": {
         "active_days": 26,
         "total_days": 86,
@@ -4813,8 +4813,8 @@
           }
         ]
       },
-      "impact_score": 32.8,
-      "cadence_score": 32.8,
+      "impact_score": 32.4,
+      "cadence_score": 32.4,
       "tier": "Steady Contributor",
       "tier_badge": "\ud83d\udfe1",
       "cadence_status": "Steady Contributor",
@@ -4836,17 +4836,17 @@
         "website_url": "https://github.com/Kea1m"
       },
       "contributions": {
-        "total": 40,
-        "commits": 12,
+        "total": 45,
+        "commits": 13,
         "pull_requests": 4,
-        "reviews": 22,
+        "reviews": 26,
         "issues": 0,
         "restricted": 0
       },
       "firm_commits": {
-        "total": 17,
+        "total": 18,
         "by_repo": {
-          "Case-Management": 17
+          "Case-Management": 18
         },
         "top_repos": [
           "Case-Management"
@@ -4867,7 +4867,7 @@
       "calendar": {
         "from": "2026-06-22",
         "to": "2026-09-17",
-        "total": 40,
+        "total": 45,
         "active_days": 14,
         "total_days": 88,
         "active_pct": 15.9,
@@ -5543,8 +5543,8 @@
               {
                 "date": "2026-09-17",
                 "weekday": 4,
-                "count": 3,
-                "level": 2,
+                "count": 8,
+                "level": 3,
                 "in_range": true
               },
               {
@@ -5565,13 +5565,13 @@
           }
         ]
       },
-      "impact_score": 17.7,
-      "cadence_score": 17.7,
+      "impact_score": 19.2,
+      "cadence_score": 19.2,
       "tier": "Intermittent",
       "tier_badge": "\u26aa",
       "cadence_status": "Intermittent",
       "cadence_desc": "Infrequent contributions across tenure",
-      "commits_per_active_day": 1.2,
+      "commits_per_active_day": 1.3,
       "rank": 6
     },
     {
@@ -5908,9 +5908,9 @@
   "meta": {
     "generation_ok": true,
     "rate_limit": {
-      "cost_used_total": 13,
-      "remaining": 4748,
-      "reset_at": "2026-09-17T11:59:55Z"
+      "cost_used_total": 11,
+      "remaining": 4952,
+      "reset_at": "2026-09-17T16:56:37Z"
     },
     "warnings": []
   }
