@@ -1,12 +1,4 @@
 const Format = (() => {
-  function number(n) {
-    return (n ?? 0).toLocaleString('en-US');
-  }
-
-  function pct(n, digits = 1) {
-    return `${(n ?? 0).toFixed(digits)}%`;
-  }
-
   function date(iso, opts = { month: 'short', day: 'numeric', year: 'numeric' }) {
     return new Date(iso).toLocaleDateString('en-US', opts);
   }
@@ -24,11 +16,17 @@ const Format = (() => {
     return `${months} month${months === 1 ? '' : 's'} ago`;
   }
 
+  function dayAgo(days) {
+    if (days === 0) return 'today';
+    if (days === 1) return 'yesterday';
+    return `${days} days ago`;
+  }
+
   function escapeHtml(str) {
     return String(str ?? '').replace(/[&<>"']/g, (c) => ({
       '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
     }[c]));
   }
 
-  return { number, pct, date, relativeTime, escapeHtml };
+  return { date, relativeTime, dayAgo, escapeHtml };
 })();
